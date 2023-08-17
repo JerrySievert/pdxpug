@@ -1,0 +1,8 @@
+*.so
+*.o
+*.dylib
+.vscode
+out
+*.diff
+*.out
+
